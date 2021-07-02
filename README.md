@@ -1,4 +1,4 @@
-# fake-apple
+# Fake apple website - notice this is NOT original Aplle website, I add some sliders just to show power of pure CSS !!!
 
 https://babelwebdeveloper.github.io/fake-apple/
 
